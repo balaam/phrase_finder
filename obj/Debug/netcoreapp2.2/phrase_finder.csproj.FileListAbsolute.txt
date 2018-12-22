@@ -1,0 +1,11 @@
+/Users/dan/code/phrase_finder/bin/Debug/netcoreapp2.2/phrase_finder.deps.json
+/Users/dan/code/phrase_finder/bin/Debug/netcoreapp2.2/phrase_finder.runtimeconfig.json
+/Users/dan/code/phrase_finder/bin/Debug/netcoreapp2.2/phrase_finder.runtimeconfig.dev.json
+/Users/dan/code/phrase_finder/bin/Debug/netcoreapp2.2/phrase_finder.dll
+/Users/dan/code/phrase_finder/bin/Debug/netcoreapp2.2/phrase_finder.pdb
+/Users/dan/code/phrase_finder/obj/Debug/netcoreapp2.2/phrase_finder.csprojAssemblyReference.cache
+/Users/dan/code/phrase_finder/obj/Debug/netcoreapp2.2/phrase_finder.csproj.CoreCompileInputs.cache
+/Users/dan/code/phrase_finder/obj/Debug/netcoreapp2.2/phrase_finder.AssemblyInfoInputs.cache
+/Users/dan/code/phrase_finder/obj/Debug/netcoreapp2.2/phrase_finder.AssemblyInfo.cs
+/Users/dan/code/phrase_finder/obj/Debug/netcoreapp2.2/phrase_finder.dll
+/Users/dan/code/phrase_finder/obj/Debug/netcoreapp2.2/phrase_finder.pdb
