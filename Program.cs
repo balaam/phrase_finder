@@ -63,6 +63,7 @@ namespace phrase_finder
             }
             Dictionary<Slice, string> subStrs = new Dictionary<Slice, string>();
             Dictionary<SingleSplit, string> subStrsSplit = new Dictionary<SingleSplit, string>();
+            Dictionary<DoubleSplit, string> subStrsDoubleSplit = new Dictionary<DoubleSplit, string>();
 
             // this will get all possible substrings
 
@@ -139,7 +140,7 @@ namespace phrase_finder
                             + target.Substring(s2, l2)
                             + "*"
                             + target.Substring(s3, l3);
-                        Console.WriteLine(s);
+                        subStrsDoubleSplit[new DoubleSplit(s1,l1,s2,l2,s3,l3)] = s;
                     }
                 }
             }
@@ -167,9 +168,14 @@ namespace phrase_finder
             //     Console.WriteLine(item);
             // }
 
-            foreach(var item in subStrsSplit.Values)
+            // foreach(var item in subStrsSplit.Values)
+            // {
+            //     Console.WriteLine(item);
+            // }
+
+            foreach(var item in subStrsDoubleSplit.Values)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item);  
             }
         }
     }
