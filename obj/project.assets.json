@@ -686,28 +686,30 @@
     ]
   },
   "packageFolders": {
-    "/Users/dan/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\Dan\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dan/code/phrase_finder/phrase_finder.csproj",
+      "projectUniqueName": "C:\\Users\\Dan\\code\\phrase_finder\\phrase_finder.csproj",
       "projectName": "phrase_finder",
-      "projectPath": "/Users/dan/code/phrase_finder/phrase_finder.csproj",
-      "packagesPath": "/Users/dan/.nuget/packages/",
-      "outputPath": "/Users/dan/code/phrase_finder/obj/",
+      "projectPath": "C:\\Users\\Dan\\code\\phrase_finder\\phrase_finder.csproj",
+      "packagesPath": "C:\\Users\\Dan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Dan\\code\\phrase_finder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/dan/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Dan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
